@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  
+}
+.heading{
+    text-align: center;
+    width: 100%;
+    background: rgb(35, 108, 225);
+    font-size: 20px;
+}
+body{
+  background-image: linear-gradient(40deg, purple,purple,purple,rgb(16, 144, 224), rgb(16, 144, 224));
+}
+.start{
+ font-size: larger;
+}
+.weee{
+  color: aliceblue;
+}
+canvas{
+  border-radius: 10px;
+  background-color: red;
+  box-shadow: 7px 7px 7px white;
+}
